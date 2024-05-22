@@ -5,6 +5,8 @@ A simple TodoList with React, Redux and TypeScript
 <hr>
 
 
+![react-redux-ts](https://github.com/ITmTm/react-redux-ts-app/assets/98873757/2fa39543-8d60-4e63-b2b4-f9d525fce927)
+
 
 <hr>
 
